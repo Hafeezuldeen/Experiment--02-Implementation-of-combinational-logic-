@@ -1,4 +1,3 @@
-![Screenshot 2023-11-24 154729](https://github.com/Hafeezuldeen/Experiment--02-Implementation-of-combinational-logic-/assets/144979314/cfec3cc3-ec00-4f36-8da7-03ef09e812ca)# Experiment--02-Implementation-of-combinational-logic
 NAME:HAFEEZUL DEEN .S
 REFERENCE NUMBER:23008281
  
@@ -21,20 +20,20 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
 ## Procedure
 ## Program:
 ```
-module exp2de(a,b,c,d,f1);
-input a,b,c,d;
-output f1;
+module exp_2(A,B,C,D,F1);
+input A,B,C,D;
+output F1;
 wire x1,x2,x3,x4,x5;
-assign x1=(~a)&(~b)&(~c)&(~d);
-assign x2=(a)&(~c)&(~d);
-assign x3=(~b)&(c)&(~d);
-assign x4=(~a)&(b)&(c)&(d);
-assign x5=(b)&(~c)&(d);
-assign f1=x1|x2|x3|x4|x5;
+assign x1=(~A)&(~B)&(~C)&(~D);
+assign x2=(A)&(~C)&(~D);
+assign x3=(~B)&(C)&(~D);
+assign x4=(~A)&(B)&(C)&(D);
+assign x5=(B)&(~C)&(D);
+assign F1=x1|x2|x3|x4|x5;
 endmodule
 ```
 ## RTL realization
-![Screenshot 2023-11-24 154729](https://github.com/Hafeezuldeen/Experiment--02-Implementation-of-combinational-logic-/assets/144979314/4c4b6291-ccf6-46a0-8f9d-9582772cec14)
+![WhatsApp Image 2023-11-24 at 21 14 32_d62e6b6a](https://github.com/Hafeezuldeen/Experiment--02-Implementation-of-combinational-logic-/assets/144979314/117e5d3b-33bb-4f4b-b712-1f1b7d0e0a64)
 TRUTH TABLE:![WhatsApp Image 2023-11-24 at 21 14 33_c5959897](https://github.com/Hafeezuldeen/Experiment--02-Implementation-of-combinational-logic-/assets/144979314/82d469bc-98e8-45f5-a969-42fa063b435c)
 
 
