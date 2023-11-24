@@ -1,6 +1,6 @@
-NAME:HAFEEZUL DEEN .S
-REFERENCE NUMBER:23008281
-Experiment:02- implemenataion of combinational logic
+## NAME:HAFEEZUL DEEN .S
+## REFERENCE NUMBER:23008281
+## Experiment:02- implemenataion of combinational logic
  
 ## AIM:
 To implement the given logic function verify its operation in Quartus using Verilog programming.
@@ -58,7 +58,8 @@ endmodule
 ```
 ## RTL realization
 ![WhatsApp Image 2023-11-24 at 21 14 32_d62e6b6a](https://github.com/Hafeezuldeen/Experiment--02-Implementation-of-combinational-logic-/assets/144979314/117e5d3b-33bb-4f4b-b712-1f1b7d0e0a64)
-TRUTH TABLE:![WhatsApp Image 2023-11-24 at 21 14 33_c5959897](https://github.com/Hafeezuldeen/Experiment--02-Implementation-of-combinational-logic-/assets/144979314/82d469bc-98e8-45f5-a969-42fa063b435c)
+## TRUTH TABLE:
+![WhatsApp Image 2023-11-24 at 21 14 33_c5959897](https://github.com/Hafeezuldeen/Experiment--02-Implementation-of-combinational-logic-/assets/144979314/82d469bc-98e8-45f5-a969-42fa063b435c)
 
 
 
