@@ -20,7 +20,7 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
 ## Procedure
 ## Program:
 ```
-module exp_2(A,B,C,D,F1);
+module exp2de(A,B,C,D,F1);
 input A,B,C,D;
 output F1;
 wire x1,x2,x3,x4,x5;
@@ -39,5 +39,7 @@ TRUTH TABLE:![WhatsApp Image 2023-11-24 at 21 14 33_c5959897](https://github.com
 
 
 ## Timing Diagram
+![image](https://github.com/Hafeezuldeen/Experiment--02-Implementation-of-combinational-logic-/assets/144979314/b3cee5d5-b46a-4324-aa30-46766f306eb1)
+
 ## Result:
 Thus the given logic functions are implemented using  and their operations are verified using Verilog programming.
