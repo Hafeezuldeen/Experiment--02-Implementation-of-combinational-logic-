@@ -1,6 +1,6 @@
-## NAME:HAFEEZUL DEEN .S
-## REFERENCE NUMBER:23008281
-## Experiment:02- implemenataion of combinational logic
+## NAME: HAFEEZUL DEEN .S
+## REFERENCE NUMBER: 23008281
+## Experiment: 02- implemenataion of combinational logic
  
 ## AIM:
 To implement the given logic function verify its operation in Quartus using Verilog programming.
